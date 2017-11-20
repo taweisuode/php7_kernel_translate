@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/php_kernel_module_example_of_sizeof.dir/main.c.o  -o php_kernel_module_example_of_sizeof 
