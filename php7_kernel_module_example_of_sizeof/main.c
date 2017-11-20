@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 int main() {
+    
     char a1[] = "2";
     printf("size of int* = %d\n",sizeof(int*));
     printf("char = %d\n",sizeof(char));
