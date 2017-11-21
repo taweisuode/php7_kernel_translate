@@ -4,8 +4,8 @@
 
 #ifndef PHP7_KERNEL_MODULE_EXAMPLE_OF_SIZEOF_HASH_H
 #define PHP7_KERNEL_MODULE_EXAMPLE_OF_SIZEOF_HASH_H
-
 #endif //PHP7_KERNEL_MODULE_EXAMPLE_OF_SIZEOF_HASH_H
+//redis hash function
 int time33(const unsigned char *buf, int len) {
     unsigned int hash = 5381;
     while (len--)

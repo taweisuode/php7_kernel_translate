@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.c
+stdio.h
+-
+string.h
+-
+hash.h
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.h
+
 /Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.h
 
 /Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/main.c
@@ -15,6 +23,12 @@ string.h
 -
 stdint.h
 -
-hash.h
-/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.h
+hash.c
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.c
+sizeof.c
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/sizeof.c
+
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/sizeof.c
+stdio.h
+-
 
