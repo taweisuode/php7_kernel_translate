@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.h
+
 /Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/main.c
 stdio.h
 -
+string.h
+-
 stdint.h
 -
+hash.h
+/Users/pengge/CLionProjects/php7_kernel_module_example_of_sizeof/hash.h
 
