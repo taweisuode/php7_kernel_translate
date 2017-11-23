@@ -2,6 +2,7 @@
 #include <string.h>
 #include "hash.h"
 int hashMain() {
+    
     char *a;
     a = "1adsd";
     printf("hash of a = %d\n",time33(a,strlen(a)));
